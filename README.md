@@ -1,7 +1,8 @@
 # 2026-FCER1G-AS-Paper
+
 Table of Contents for repositories used in the 2026 Frontiers FCER1G Alternate Splicing paper
 
-# Supplemental Figure 1 Gnomad variant frequencies 
+# Supplemental Figure 1 gnomAD variant frequencies 
 
 [2026-FCER1G-AS-SFig1-gnomad-snps](https://github.com/KimberlyLab/2026-FCER1G-AS-SFig1-gnomad-snp)
 
