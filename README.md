@@ -4,7 +4,7 @@ Table of Contents for repositories used in the 2026 Frontiers FCER1G Alternate S
 
 # Supplemental Figure 1 gnomAD variant frequencies 
 
-[2026-FCER1G-AS-SFig1-gnomad-snps](https://github.com/KimberlyLab/2026-FCER1G-AS-SFig1-gnomad-snp)
+[2026-FCER1G-AS-SFig1-gnomad-snps](https://github.com/KimberlyLab/2026-FCER1G-AS-SFig1-gnomad-snps)
 
 # CCS local assembly 
 
